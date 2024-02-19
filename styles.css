@@ -1,0 +1,57 @@
+/* styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ed58a5; /* Light background color */
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: #000000; /* Dark text color */
+}
+
+.search-bar {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.search-bar input[type="text"] {
+    width: 300px;
+    padding: 10px;
+    border: 1px solid #3b3ee7;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+.dictionary {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    grid-gap: 20px;
+}
+
+.term {
+    padding: 20px;
+    background-color: #7775db; /* White background color */
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Box shadow for cards */
+}
+
+.term h3 {
+    font-size: 18px;
+    margin-bottom: 10px;
+    color: #ffffff; /* Dark text color */
+}
+
+.term p {
+    font-size: 16px;
+    margin: 0;
+    color: #f8f7f7; /* Medium dark text color */
+}
