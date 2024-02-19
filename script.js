@@ -490,6 +490,8 @@ var dictionary = [
         { term: "WPA (Wi-Fi Protected Access)", definition: "WPA (Akses Terlindungi Wi-Fi)" },
         { term: "Wrap", definition: "Membungkus" },
         { term: "XML (eXtensible Markup Language)", definition: "XML (Bahasa Pemrosesan Ekstensibel)" },
+        { term: "Xerosis", definition: "Xerosis" },
+        { term: "Xenograf", definition: "Xenograf" },
         { term: "Yahoo!", definition: "Yahoo!" },
         { term: "YouTube", definition: "YouTube" },
         { term: "Zettabyte", definition: "Zettabyte" },
