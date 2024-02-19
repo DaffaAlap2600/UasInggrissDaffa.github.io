@@ -15,7 +15,17 @@ body {
 
 h1 {
     text-align: center;
-    color: #000000; /* Dark text color */
+    color: #ffffff; /* Dark text color */
+    outline: black;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+}
+
+h2 {
+    color: #ffffff; /* Dark text color */
+    outline: black;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
 }
 
 .search-bar {
